@@ -1,4 +1,5 @@
 Data files.
+More details in https://github.com/penghu-cs/UCCH/blob/main/data/README.md
 
 MIRFLICKR25K, IAPR-TC12, NUS-WIDE-TC10, and MSCOCO can be downloaded from pan.baidu.com.
 
